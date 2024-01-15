@@ -168,7 +168,7 @@ while True:
                     driver.find_element(By.XPATH, '/html/body/div[13]/div[3]/div/div[1]/div/div[2]/div/button[1]').click()
     
                     ## Search
-                    driver.get(f'https://open.spotify.com/user/ahmeddanial')
+                    driver.get(f'https://open.spotify.com/user/your_username')
                     sleep(2)
     
                     ## Follow
