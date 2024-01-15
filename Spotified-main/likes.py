@@ -21,7 +21,7 @@ def set_terminal_title(title):
 likes_count = 0
 
 
-playlist = input("Playlist url> ")
+playlist = input("https://open.spotify.com/playlist/6keEsEjOcC2Dk57A9lM5fd?si=4dc24c0e25ab45b8> ")
 while True:
     def generate_random_string(length):
         characters = string.ascii_lowercase + string.digits
